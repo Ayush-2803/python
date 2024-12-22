@@ -19,7 +19,7 @@ def subtract (a,b):
 def multiply (a,b):
     return a*b
 
-#function for division
+#function for division      
 def divide (a,b):
 #division by 0 check
     if b == 0:

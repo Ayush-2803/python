@@ -1,7 +1,7 @@
 #game to guess the number 
 
 import random
-randNo = random.randint(1,100)
+randNo = random.randint(1,100) 
 guess_counter = 0
 user_guess = None
 

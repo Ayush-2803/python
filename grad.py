@@ -17,7 +17,7 @@ def add_stu(students):
 
 def calc_average(students):
     if not students:
-        print("No Student found") 
+        print("No Student found")
     else :
         average = sum(students.values())/len(students)
         print(f"The average grade is {average: .2f}")

@@ -5,6 +5,6 @@ def bomber():
     pyautogui.typewrite("BOMBER HU")
     pyautogui.keyDown("enter")
 
-for i in range(10):
+for i in range(100):
     bomber()
     time.sleep(0.5)  # Pause for 1 second between messages

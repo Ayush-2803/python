@@ -22,4 +22,4 @@ with open ("hiscore.txt", "r") as f:
 if(guess_counter<hiscore):
     print("You have just broken the high score!")
     with open("hiscore.txt", "w") as f:
-        f.write(str(guess_counter))
+        f.write(str(guess_counter)) 

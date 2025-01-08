@@ -32,4 +32,5 @@ Project 6 : bomber.py
 
 Project 7 : password.py
     date : 8-1-2025
+    
     project mainly focuses on creating a password generator
